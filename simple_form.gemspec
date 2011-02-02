@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "simple_form/version"
 
 Gem::Specification.new do |s|
   s.name        = "simple_form"
-  s.version     = SimpleForm::VERSION.dup
+  s.version     = "1.3.0"
   s.platform    = Gem::Platform::RUBY
   s.summary     = "Forms made easy!"
   s.email       = "contact@plataformatec.com.br"
